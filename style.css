@@ -1,0 +1,26 @@
+h1.big{
+font-weight:bold;
+font-style:normal;
+font-family:georgia serif;
+word-spacing:5px;
+font-size:medium;
+color:blue;
+}
+
+p.medium{
+font-weight:bolder;
+font-style:italic;
+font-family:'times new roman' monospaced;
+word-spacing:10px;
+font-size:large;
+color:red;
+}
+
+h2.small{
+font-weight:lighter;
+font-style:normal;
+font-family:arial cursive;
+word-spacing:3px;
+font-size:medium;
+color:green;
+}
